@@ -1,0 +1,17 @@
+body {
+color: white;
+  background-color: black;
+}
+body {
+  text-align: center;
+  font-family: 'Baloo Tamma', cursive;
+}
+h3 {
+  color: limegreen;
+}
+<style>
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:green; background-color:transparent; text-decoration:none}
+a:hover   {color:lime; background-color:transparent; text-decoration:underline}
+a:active  {color:gray; background-color:transparent; text-decoration:underline}
+</style>
